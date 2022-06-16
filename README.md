@@ -1,5 +1,5 @@
 # Healpix void
-Healpix mod code to apply voids on healpix maps (during spherical harmonics mapping) using the expected lensing angle function. Extension of the [Healpix boost](https://github.com/mquartin/healpix-boost) code. As soon as the paper was submited, I will release here the version including the estimator of non-diagonal correlations on spherical harmonics space and the instructions to apply voids in polarization maps (Q and U). 
+Healpix mod code to apply voids on healpix maps (during spherical harmonics mapping) using the expected lensing angle function. Extension of the [Healpix boost](https://github.com/mquartin/healpix-boost) code. As soon as the paper is submited, I will release here the version including the estimator of non-diagonal correlations on spherical harmonics space and the instructions to apply voids in polarization maps (Q and U). 
 
 # Instructions
 
